@@ -7,8 +7,8 @@ To run project:
 4- run: docker-compose up
 
 ###
-- There is a postman collection attached in the project contains the implemented APIs and an example for each one.
-- Also contains project database erd as a png image
+- There is a postman collection attached in the project contains the implemented APIs and an example for each one. (file "STC.postman_collection.json")
+- Also contains project database erd as a png image. (file "STC_project_erd.png")
 
 ###
 - file "STCProblemSolving" is the solution for the first topic (problem solving).
